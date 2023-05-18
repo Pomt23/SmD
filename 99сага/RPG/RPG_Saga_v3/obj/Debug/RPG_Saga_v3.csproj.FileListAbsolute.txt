@@ -1,0 +1,13 @@
+G:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\bin\Debug\RPG_Saga_v3.exe
+G:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\bin\Debug\RPG_Saga_v3.pdb
+G:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.exe
+G:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.pdb
+G:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\bin\Debug\RPG_Saga_v3.exe.config
+G:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.csproj.AssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.exe
+Z:\Общая для записи студентам\205 гр\Спинов Яненко Катин\RPG_Saga_v3\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\99сага\RPG\RPG_Saga_v3\bin\Debug\RPG_Saga_v3.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\99сага\RPG\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\99сага\RPG\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\99сага\RPG\RPG_Saga_v3\obj\Debug\RPG_Saga_v3.csprojResolveAssemblyReference.cache
