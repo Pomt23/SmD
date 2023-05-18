@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "перевертыш", "перевертыш\перевертыш.csproj", "{95B9DF6D-C66B-4FF5-BF2E-9FF1DF9CC9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B9DF6D-C66B-4FF5-BF2E-9FF1DF9CC9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B9DF6D-C66B-4FF5-BF2E-9FF1DF9CC9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B9DF6D-C66B-4FF5-BF2E-9FF1DF9CC9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B9DF6D-C66B-4FF5-BF2E-9FF1DF9CC9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF3DF293-933C-4F17-A596-B5A015C9B691}
+	EndGlobalSection
+EndGlobal
