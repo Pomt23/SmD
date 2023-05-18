@@ -1,0 +1,15 @@
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\WindowsFormsApp4.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\WindowsFormsApp4.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\WindowsFormsApp4.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\mscorlib.dll
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\ru\mscorlib.resources.dll
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\normidna.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\normnfc.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\normnfd.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\normnfkc.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\bin\Debug\normnfkd.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\obj\Debug\WindowsFormsApp4.Form1.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\obj\Debug\WindowsFormsApp4.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\4пр\obj\Debug\WindowsFormsApp4.pdb
