@@ -1,0 +1,32 @@
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\mscorlib.dll
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\ru\mscorlib.resources.dll
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normidna.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfc.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfd.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfkc.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\normnfkd.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\8пр\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache

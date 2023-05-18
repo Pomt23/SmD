@@ -1,0 +1,96 @@
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame0.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame1.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame10.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame11.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame12.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame13.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame14.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame15.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame16.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame17.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame2.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame3.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame4.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame5.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame6.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame7.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame8.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame9.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame0.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame1.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame10.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame11.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame12.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame13.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame14.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame15.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame16.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame17.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame2.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame3.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame4.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame5.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame6.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame7.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame8.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame9.png
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\mscorlib.dll
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\mscorlib.resources.dll
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normidna.nlp
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfc.nlp
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfd.nlp
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfkc.nlp
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfkd.nlp
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame0.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame1.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame10.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame11.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame12.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame13.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame14.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame15.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame16.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame17.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame2.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame3.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame4.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame5.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame6.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame7.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame8.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame9.png
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\mscorlib.dll
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\mscorlib.resources.dll
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normidna.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfc.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfd.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfkc.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\normnfkd.nlp
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\9пр\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
