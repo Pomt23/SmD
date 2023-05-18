@@ -1,0 +1,15 @@
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\ПР11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\11пр\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\11пр\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\11пр\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\11пр\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\11пр\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\горелов\11пр\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
