@@ -1,0 +1,8 @@
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистякова Кузьмин\Задача 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистякова Кузьмин\Задача 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистякова Кузьмин\Задача 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистякова Кузьмин\Задача 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистякова Кузьмин\Задача 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\Задача 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\Задача 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+Z:\Общая для записи студентам\207 22-23\Смирнов Чистяковаaa\Задача 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
